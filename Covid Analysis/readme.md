@@ -14,6 +14,9 @@ The Study Focuses on :
 6. GLOBAL Numbers
 7. Total Population vs Vaccination
 
+### Report
+![Home](https://github.com/leo7736/SQL_Projects/blob/main/Covid%20Analysis/images/covid%20Data%20-%20Power%20BI%20Desktop%2007-Mar-23%204_31_59%20PM%20(2).png)
+
 ### Interact with the dashboard: https://www.novypro.com/project/covid-1
 
 ### Link to dataset: https://ourworldindata.org/covid-deaths
