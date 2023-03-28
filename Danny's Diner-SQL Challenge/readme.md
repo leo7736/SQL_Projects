@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="500" height="520">
 
-  View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/YogeshOlla/8-Weeks-SQL-Challenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/SQL%20Code/Case%20Study%201%20-%20Danny's%20Diner.sql)
+  View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/leo7736/SQL_Projects/blob/main/Danny's%20Diner-SQL%20Challenge/danny's%20diner.sql)
  
 ## Problem Statement
   Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
@@ -80,7 +80,7 @@ The final members table captures the ```join_date``` when a ```customer_id``` jo
  
 ### Entity Relationship Diagram:
 
-![image](https://user-images.githubusercontent.com/81607668/127271130-dca9aedd-4ca9-4ed8-b6ec-1e1920dca4a8.png)
+![image](https://github.com/leo7736/SQL_Projects/blob/main/Danny's%20Diner-SQL%20Challenge/images/hp.danny's_diner%20-%20Diagram_0_%20-%20Microsoft%20SQL%20Server%20Management%20Studio%2028-Mar-23%2011_44_49%20AM%20(2).png)
 
   
 ### Case Study Questions:
