@@ -1,6 +1,6 @@
 
 
-## I cleaned and transformed a real-time COVID dataset using SQL queries and visualized the results on a Power BI dashboard.
+## This SQL project analyzes a real-time COVID dataset, exploring the relationships between total cases, deaths, and population, as well as identifying countries and continents with the highest infection and death rates. The results are visualized on a Power BI dashboard.
 
 
 The following project is based on COVID-19:
