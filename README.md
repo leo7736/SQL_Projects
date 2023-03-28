@@ -1,10 +1,15 @@
-# SQL_Projects
+# SQL Projects
+This repository contains a collection of SQL projects that I have completed, including:
 
-##  1.Consumer Goods Ad-Hoc Insights
-In this project, I took raw sales data from the firm Atliq Technologies and provided insights to management in the consumer goods domain through SQL queries.
+## 1. Consumer Goods Ad-Hoc Insights
+This SQL project involves a challenge presented by Atliq Hardwares, a leading computer hardware producer in India, aimed at hiring junior data analysts with both technical and soft skills. The challenge is designed to provide insights to the management to make quick and informed data-driven decisions.
 
-## 2.Data cleaning in sql
-In this project, I took raw housing data and transformed it in SQL Server to make it more usable for analysis.
 
-## 3. Covid 19 data exploration
-I cleaned and transformed a real-time COVID dataset using SQL queries and visualized the results on a Power BI dashboard.
+## 2. COVID-19 Data Exploration
+For this project, I cleaned and transformed a real-time COVID-19 dataset using SQL queries and then visualized the results on a Power BI dashboard.
+
+## 3.Danny's Diner-SQL Challenge
+This SQL project involves analyzing customer data to provide insights on their behavior and preferences, which will enable Danny to deliver a more personalized experience and make decisions about expanding his customer loyalty program. The project also involves creating basic datasets for Danny's team to easily inspect the data without needing to use SQL.
+
+## 3. Nashville housing data
+In this project, I worked with raw housing data and transformed it in SQL Server to make it more suitable for analysis.
