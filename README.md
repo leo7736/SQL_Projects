@@ -11,5 +11,5 @@ For this project, I cleaned and transformed a real-time COVID-19 dataset using S
 ## 3.Danny's Diner-SQL Challenge
 This SQL project involves analyzing customer data to provide insights on their behavior and preferences, which will enable Danny to deliver a more personalized experience and make decisions about expanding his customer loyalty program. The project also involves creating basic datasets for Danny's team to easily inspect the data without needing to use SQL.
 
-## 3. Nashville housing data
+## 4. Nashville housing data
 In this project, I worked with raw housing data and transformed it in SQL Server to make it more suitable for analysis.
