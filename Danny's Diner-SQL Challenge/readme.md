@@ -96,3 +96,11 @@ The final members table captures the ```join_date``` when a ```customer_id``` jo
 9.  If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, 
     not just sushi - how many points do customer A and B have at the end of January?
+    
+### suggestions for improving Danny's business
+
+1.Offer seasonal specials or limited-time menu items to keep customers interested and coming back.
+
+2.Implement a referral program where customers can receive discounts or free items for bringing in new customers.
+
+3.Collect feedback from customers through surveys or suggestion boxes to identify areas for improvement and address any concerns.
