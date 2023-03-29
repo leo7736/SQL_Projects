@@ -1,13 +1,16 @@
+-- selecting all data
 SELECT * FROM contents
 
+-- selecting null data
 SELECT * FROM reactions
 WHERE user_id IS NULL AND type IS NULL
--- 980 records
-
+-- 
+-- deleting all null data
 DELETE FROM reactions
 WHERE user_id IS NULL AND type IS NULL
 -- deleting null user_id and also type
 
+-- cheching for duplicates
 SELECT user_id, name, email, count(*) FROM users
 GROUP BY user_id, name, email
 HAVING count(*) > 1
