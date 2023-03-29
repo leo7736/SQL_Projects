@@ -8,3 +8,7 @@ To achieve this, I analyzed their content categories and identified the top 5 ca
 
 
 I utilized tools such as Microsoft SQL Server, PowerPoint, and Excel.
+
+
+
+ View the [**case study**](https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/Data-Analytics-Virtual-Experience) and my [**solution**](https://github.com/leo7736/SQL_Projects/blob/main/ACCENTURE-Social%20Buzz%20App/SQLquery.sql)
