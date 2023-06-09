@@ -1,7 +1,7 @@
 
 # ACCENTURE VIRTUAL INTERNSHIP
 
-<img src ="https://github.com/leo7736/SQL_Projects/blob/main/ACCENTURE-Social%20Buzz%20App/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_DSFfAMvcdAa7inCuC_1674836897024_completion_certificate.pdf%20-%20Adobe%20Reader%2020-May-23%204_25_59%20PM.png" width="1000" class="center">
+
 
 
 Social Buzz, a fast-growing technology unicorn, receives over 100,000 posts per day and 36,500,000 pieces of content per year. The company wants to understand customer engagement and leverage its rapid growth. 
