@@ -6,9 +6,13 @@ In this project, we have taken raw Nashville housing data and transformed it in 
 The project includes the following steps:
 
 1.Data exploration and understanding
+
 2.Data cleaning and transformation using SQL queries
+
 3.Validating the transformed data
+
 4.Exporting the cleaned data to a CSV file for further analysis
+
 
 ## Tools and Technologies
 SQL Server Management Studio
