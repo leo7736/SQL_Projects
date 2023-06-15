@@ -1,17 +1,40 @@
+# Accenture Virtual Internship
 
-# ACCENTURE VIRTUAL INTERNSHIP
+This project involves working with Social Buzz, a fast-growing technology unicorn, to analyze customer engagement and leverage its rapid growth. The company receives a significant amount of content, with over 100,000 posts per day and 36,500,000 pieces of content per year. The goal is to understand customer engagement by analyzing content categories and identifying the top 5 categories with the highest popularity.
+
+## Project Overview
+
+The project was completed using various tools and technologies, including:
+
+- Microsoft SQL Server: Used to extract, clean, and merge necessary columns from different datasets.
+- PowerPoint: Utilized to create a compelling visualization and prepare a presentation that meets the project requirements.
+- Excel: Potentially used for data manipulation or analysis purposes.
+
+## Project Tasks
+
+1. Content Category Analysis:
+   - Analyzed the content categories within Social Buzz.
+   - Identified the top 5 categories with the highest aggregate popularity.
+
+2. Data Extraction and Preparation:
+   - Utilized Microsoft SQL Server to extract relevant data from different datasets.
+   - Cleaned and merged necessary columns for further analysis.
+
+3. Visualization and Presentation:
+   - Created a compelling visualization of the findings.
+   - Developed a PowerPoint presentation to effectively communicate the results.
+
+## Tools Used
+
+The following tools were employed during the project:
+
+- Microsoft SQL Server: Used for data extraction, cleaning, and merging.
+- PowerPoint: Employed to create a visually appealing and informative presentation.
+- Excel: Potentially used for additional data manipulation or analysis.
+
+Please note that the specific details of the analysis, such as the methodology employed, visualization techniques used, and the structure of the presentation, may not be provided in this readme file. However, the project aimed to leverage the provided tools and technologies to gain insights into customer engagement for Social Buzz.
 
 
+## Contributor
 
-
-Social Buzz, a fast-growing technology unicorn, receives over 100,000 posts per day and 36,500,000 pieces of content per year. The company wants to understand customer engagement and leverage its rapid growth. 
-
-To achieve this, I analyzed their content categories and identified the top 5 categories with the highest aggregate popularity. Using Microsoft SQL Server, I extracted, cleaned, and merged necessary columns from different datasets. Then, I created a compelling visualization and PowerPoint presentation to meet the project requirements. 
-
-
-
-I utilized tools such as Microsoft SQL Server, PowerPoint, and Excel.
-
-
-
- View the [**case study**](https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/Data-Analytics-Virtual-Experience) and my [**solution**](https://github.com/leo7736/SQL_Projects/blob/main/ACCENTURE-Social%20Buzz%20App/SQLquery.sql)
+This project was completed as part of the Accenture Virtual Internship program.
