@@ -49,8 +49,12 @@ Hence, he decided to conduct a SQL challenge which will help him understand both
 |:-:|
 |![First Image](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/images/top_divsion.jpg)|
 
+# REPORT
 
-
+|Dashboard|
+|:-:|
+|![First Page](https://raw.githubusercontent.com/leo7736/SQL_Projects/main/Ad-Hoc%20_SQL_Project/scrn_sht/ad-hoc1.png)|
+|![Second Page](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/scrn_sht/adhoc2.png)|
 
 
 ## note:
