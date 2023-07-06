@@ -1,4 +1,4 @@
-# Accenture Virtual Internship
+# Accenture Internship
 
 This project involves working with Social media data, a fast-growing technology unicorn, to analyze customer engagement and leverage its rapid growth. The company receives a significant amount of content, with over 100,000 posts per day and 36,500,000 pieces of content per year. The goal is to understand customer engagement by analyzing content categories and identifying the top 5 categories with the highest popularity.
 
@@ -37,4 +37,4 @@ Please note that the specific details of the analysis, such as the methodology e
 
 ## Contributor
 
-This project was completed as part of the Accenture Virtual Internship program.
+This project was completed as part of the Accenture Internship program.
