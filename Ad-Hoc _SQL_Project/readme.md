@@ -25,7 +25,7 @@ Hence, he decided to conduct a SQL challenge which will help him understand both
 # Comparison of Product Counts by Segment in a Technology Store: 2020 vs 2021
 |Insights|
 |:-:|
-|![First Image](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/images/segment_product.jpg)|
+|![First Image](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/images/3.png)|
 
 # Monthly Gross Sales Amount in a Technology Store from September 2019 to August 2021
 |Monthly Gross Sales Amount|
