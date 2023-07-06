@@ -1,6 +1,6 @@
 # Accenture Virtual Internship
 
-This project involves working with Social Buzz, a fast-growing technology unicorn, to analyze customer engagement and leverage its rapid growth. The company receives a significant amount of content, with over 100,000 posts per day and 36,500,000 pieces of content per year. The goal is to understand customer engagement by analyzing content categories and identifying the top 5 categories with the highest popularity.
+This project involves working with Social media data, a fast-growing technology unicorn, to analyze customer engagement and leverage its rapid growth. The company receives a significant amount of content, with over 100,000 posts per day and 36,500,000 pieces of content per year. The goal is to understand customer engagement by analyzing content categories and identifying the top 5 categories with the highest popularity.
 
 ## Project Overview
 
