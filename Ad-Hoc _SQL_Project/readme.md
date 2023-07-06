@@ -20,7 +20,7 @@ Hence, he decided to conduct a SQL challenge which will help him understand both
 # Product Count by Segment in a Technology Store
 |Visual|Insights|
 |:-:|:-:|
-|![First Image](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/images/product_count.jpg)|We should focus on the successful segments and consider revising our strategy for the underperforming networking segment.|
+|![First Image](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/images/4.png)|We should focus on the successful segments and consider revising our strategy for the underperforming networking segment.|
 
 # Comparison of Product Counts by Segment in a Technology Store: 2020 vs 2021
 |Insights|
@@ -30,7 +30,7 @@ Hence, he decided to conduct a SQL challenge which will help him understand both
 # Monthly Gross Sales Amount in a Technology Store from September 2019 to August 2021
 |Monthly Gross Sales Amount|
 |:-:|
-|![First Image](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/images/Gross%20sales.jpg)|
+|![First Image](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/images/2.png)|
 
 # Total Sold Quantity by Quarter in a Technology Store
 |Total sold quantity|
@@ -53,8 +53,8 @@ Hence, he decided to conduct a SQL challenge which will help him understand both
 
 |Dashboard|
 |:-:|
-|![First Page](https://raw.githubusercontent.com/leo7736/SQL_Projects/main/Ad-Hoc%20_SQL_Project/scrn_sht/ad-hoc1.png)|
-|![Second Page](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/scrn_sht/adhoc2.png)|
+|![Report](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/images/ad-hoc.png)|
+
 
 
 ## note:
