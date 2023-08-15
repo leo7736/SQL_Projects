@@ -13,7 +13,7 @@
 
 <!-- Steps to Shine -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5622AQEiLixLSxXe5w/feedshare-shrink_800/0/1690945191426?e=1694044800&v=beta&t=DwS9yl2yfqTHWzkWn8xgyM4a7R8su4ZPEgTtog891F0" alt="Data Transformation Steps">
+  <img src="https://dataheroes.ai/wp-content/uploads/2023/04/post-2395-2.jpg" alt="Data Transformation Steps">
 </p>
 <p align="center">
   Follow our four phases of data transformation:
