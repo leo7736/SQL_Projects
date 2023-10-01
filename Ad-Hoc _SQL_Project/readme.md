@@ -60,3 +60,4 @@ Hence, he decided to conduct a SQL challenge which will help him understand both
 ## note:
 
 The file "ad-hoc-requests -Solutions.sql"contains all the resultant queries
+[**solution**](https://github.com/leo7736/SQL_Projects/blob/main/Ad-Hoc%20_SQL_Project/ad-hoc-requests%20-Solutions.sql)
